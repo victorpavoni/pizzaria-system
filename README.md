@@ -30,9 +30,8 @@
 
 O Sistema de pizzaria é uma aplicação web de gerenciamento de pizzaria, responsável pelo controle de pedidos e usuarios. 
 
-<p align="center">
-  [Figma](https://www.figma.com/file/yTPA50bLeQdJOCrg5sAOqU/Pizzaria-Sujeito?type=design&node-id=0-1&mode=design) 
-</p>
+[Figma](https://www.figma.com/file/yTPA50bLeQdJOCrg5sAOqU/Pizzaria-Sujeito?type=design&node-id=0-1&mode=design) 
+
 
 <br>
 
