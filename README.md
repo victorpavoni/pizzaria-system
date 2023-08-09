@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img align="right" src=".github/pizza.png?raw=true" width="35%">
+<img align="right" src="pizza.png?raw=true" width="35%">
 
 ## Tópicos 
 
