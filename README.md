@@ -44,7 +44,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - [Typescript](https://devdocs.io/typescript/)
 - [Node](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
-- [Prisma](https://mozilla.github.io/nunjucks/)
+- [Prisma](https://prisma.io/)
 - [PostgreSQL](https://www.postgresql.org/)
 
 <br>
